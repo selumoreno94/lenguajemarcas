@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="HOST" value="git@github.com:selumoreno94/lenguajemarcas.git" />
+    <option name="VALID_GIT_AUTH" value="false" />
+  </component>
+</application>
